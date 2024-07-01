@@ -18,7 +18,7 @@
 [![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[!image].(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 [![card](https://github-readme-stats.vercel.app/api?username=DevCezarIs&theme=dark&show_icons=true)](https://github.com/DevCezarIs/)
 [![DevCezarIs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCezarIs&hide=html&layout=compact&theme=dark)](https://github.com/DevCezarIs/)
