@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cezar Isac</h1>
 
-
 <!-- - 🌱 I’m currently learning about Front-End -->
 
 - 📫 How to reach me **cezar.dev24@gmail.com**
